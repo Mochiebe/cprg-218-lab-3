@@ -1,0 +1,10 @@
+.video {
+    aspect-ratio: 16 / 9;
+    width: 100%;
+  }
+
+@media screen and (min-width: 768px) {
+    .card:nth-of-type(10){
+        width: 200%;
+      }
+}
